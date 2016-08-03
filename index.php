@@ -73,7 +73,7 @@ if (defined('ENVIRONMENT'))
  * NO TRAILING SLASH!
  *
  */
-	$application_folder = 'application/lumino_admin';
+	$application_folder = 'application/camfashion';
 
 /*
  * --------------------------------------------------------------------
