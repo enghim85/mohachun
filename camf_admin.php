@@ -73,7 +73,7 @@ if (defined('ENVIRONMENT'))
  * NO TRAILING SLASH!
  *
  */
-	$application_folder = 'application/camf';
+	$application_folder = 'application/camf_admin';
 
 /*
  * --------------------------------------------------------------------
